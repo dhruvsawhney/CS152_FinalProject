@@ -6,12 +6,12 @@ Project: Sentiment Analysis on IMDB movie reviews using Recurrent Neural Network
 
 2 models have been implemented:
 
-1. Sentiment Analysis using word embedding (RNN_with_word_embedding.ipynb)
+1. Sentiment Analysis using word embedding (notebooks/RNN_with_word_embedding.ipynb)
 
   An RNN (architecture details in notebook) using the Keras deep-learning framework. Furthermore, I use a word-embedding layer
   (GloVe embedding) that takes the raw text and feeds dense vector embeddings as input to the RNN.
   
-2. Sentiment Analsis using Transfer Learning (TransferLearning.ipynb)
+2. Sentiment Analsis using Transfer Learning (notebooks/TransferLearning.ipynb)
   
   This approach is modelled after the paper (https://arxiv.org/abs/1801.06146) and implementation (https://github.com/fastai/fastai/blob/master/courses/dl1/lesson4-imdb.ipynb).
   
