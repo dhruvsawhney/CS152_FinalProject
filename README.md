@@ -1,8 +1,8 @@
 # CS152_FinalProject (Neural Networks)
 
-Project: Sentiment Analysis on IMDB movie reviews using Recurrent Neural Network
-        Prediction: 1/0 for a positive/negative movie review sentiment
-        Data Source: Kaggle IMDB movie review (https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data)
+Project: Sentiment Analysis on IMDB movie reviews using Recurrent Neural Network <br />
+        Prediction: 1/0 for a positive/negative movie review sentiment <br />
+        Data Source: Kaggle IMDB movie review (https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data) <br />
 
 2 models have been implemented:
 
