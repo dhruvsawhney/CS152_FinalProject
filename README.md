@@ -7,13 +7,13 @@ Data Source: Kaggle IMDB movie review (https://www.kaggle.com/c/sentiment-analys
 
 ### Model overview:
 
-#### Model 1. Sentiment Analysis using word embedding (notebooks/RNN_with_word_embedding.ipynb)
+#### Model 1. Sentiment analysis using word embedding (notebooks/RNN_with_word_embedding.ipynb)
 
-  An RNN (architecture details in notebook) using the Keras deep-learning framework. Furthermore, I use a word-embedding layer
-  (GloVe embedding) that takes the raw text and feeds dense vector embeddings as input to the RNN.
+  An RNN (architecture details in notebook) using the Keras deep-learning framework that uses a word-embedding layer
+  (GloVe embedding) that takes the raw text and feeds dense real-value vectors as input to the RNN.
  
   
-#### Model 2. Sentiment Analsis using Transfer Learning (notebooks/TransferLearning.ipynb)
+#### Model 2. Sentiment analysis using Transfer Learning (notebooks/TransferLearning.ipynb)
   
   This approach is modelled after the paper (https://arxiv.org/abs/1801.06146) and implementation (https://github.com/fastai/fastai/blob/master/courses/dl1/lesson4-imdb.ipynb).
   
