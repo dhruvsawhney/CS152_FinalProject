@@ -5,9 +5,9 @@
 Prediction: 1/0 for a positive/negative movie review sentiment <br />
 Data Source: Kaggle IMDB movie review (https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data) <br />
 
-2 models have been implemented:
+### Model overview:
 
-Model 1. Sentiment Analysis using word embedding (notebooks/RNN_with_word_embedding.ipynb)
+#### Model 1. Sentiment Analysis using word embedding (notebooks/RNN_with_word_embedding.ipynb)
 
   An RNN (architecture details in notebook) using the Keras deep-learning framework. Furthermore, I use a word-embedding layer
   (GloVe embedding) that takes the raw text and feeds dense vector embeddings as input to the RNN.
